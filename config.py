@@ -10,7 +10,7 @@ import os
 DB_HOST = "localhost"            # where MySQL is running
 DB_PORT = 3306                   # default MySQL port
 DB_USER = "root"                 # your MySQL username
-DB_PASSWORD = "C202500629"                 # <-- put your MySQL password here
+DB_PASSWORD = ""                 # <-- put your MySQL password here
 DB_NAME = "asik_database"        # the database name required for Asik
 
 # ---------- Application settings ----------
